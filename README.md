@@ -6,7 +6,7 @@ Hi, I'm Gerard Raventos, a passionate self-taught developer and a from Spain. My
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/XYZ-DANO/XYZ-DANO/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/XYZ-DANO/XYZ-DANO/blob/main/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" width="500" height="320" />
   
 - 💼 Any freelance work? Do reach, [email](graventos@hosting-xyz) :)
 - 💬 Ask me about anything;
