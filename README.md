@@ -8,7 +8,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/XYZ-DANO/XYZ-DANO/blob/main/code.gif?raw=true" width="500" height="320" />
   
-- 💼 Any freelance work? Do reach, [email](graventos@hosting-xyz) :)
+- 💼 Any freelance work? Do reach, [email](me@graventos.com) :)
 - 💬 Ask me about anything;
 
 **Languages and Tools:**  
