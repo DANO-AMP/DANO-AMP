@@ -20,7 +20,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://user-images.githubusercontent.com/40738457/122688826-cd4a9100-d21e-11eb-920a-b3d1ac2e009b.png"></code>
 <code><img height="20" src="https://e7.pngegg.com/pngimages/48/567/png-clipart-bash-shell-script-command-line-interface-z-shell-shell-rectangle-logo-thumbnail.png"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XYZ-DANO)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DANO-AMP)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
