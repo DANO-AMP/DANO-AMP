@@ -1,9 +1,8 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-Hi, I’m Gerard Raventos, a passionate self-taught developer from Spain. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, the architecture and the quality of the code of the things I build. I’m also an open source enthusiast and maintainer. I have learned a lot from the open source community and I love how collaboration and knowledge sharing through open source
+Hi, I’m Gerard Raventos, a passionate self-taught developer from Spain. My passion for software lies in dreaming about ideas and making them come true with elegant interfaces. I take great care in the experience, the architecture and the quality of the code of the things I build. I’m also an open-source enthusiast and maintainer. I have learned a lot from the open source community and I love how knowledge is shared through it.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/XYZ-DANO/XYZ-DANO/blob/main/code.gif?raw=true" width="500" height="320" />
