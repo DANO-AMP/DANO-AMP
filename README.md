@@ -1,26 +1,34 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<img align="right" alt="Hacking GIF" src="https://github.com/XYZ-DANO/XYZ-DANO/blob/main/code.gif?raw=true" width="450" />
 
-Hi, I’m Gerard, a passionate self-taught developer from Spain. My passion for software lies in dreaming about ideas and making them come true with elegant interfaces. I take great care in the experience, the architecture and the quality of the code of the things I build. I’m also an open-source enthusiast and maintainer. I have learned a lot from the open source community and I love how knowledge is shared through it.
+Hi, I’m **Gerard**, a self-taught elite security researcher and adversarial AI developer from Spain. I specialize in pushing systems to their limits through complex cyber hacking, deep reverse engineering, and advanced AI systems integration (Leveraging agents like Claude Code). I take great care in solid, secure architecture, ethical exploitation, and clean code.
 
+I’m also a huge advocate for open-source—primarily sharing proof-of-concepts, automated exploitation scripts, and advanced analysis tools to advance the collective security landscape.
 
+<br>
 
-  <img align="right" alt="GIF" src="https://github.com/XYZ-DANO/XYZ-DANO/blob/main/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 Any freelance work? Do reach, [email](graventos@proton.me) :)
-- 💬 Ask me about anything;
+📫 **Let's connect:**
+<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/GerardCyberAI_DANO)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/GerardCyber_DANO)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:graventos@proton.me)
 
-**Languages and Tools:**  
+---
 
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/npm-2.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://www.clipartkey.com/mpngs/m/244-2449523_golang-logo-transparent-background.png"></code>
-<code><img height="20" src="https://e7.pngegg.com/pngimages/48/567/png-clipart-bash-shell-script-command-line-interface-z-shell-shell-rectangle-logo-thumbnail.png"></code>
+### 🧠 Adversarial AI & Cyber Tech Ecosystem
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DANO-AMP)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Pro" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Pro" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+<br>
+  <img src="https://img.shields.io/badge/Ghidra-1A1A1A?style=for-the-badge&logo=ghidra&logoColor=white" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/Frida-A93132?style=for-the-badge&logo=frida&logoColor=white" alt="Frida" />
+  <img src="https://img.shields.io/badge/Metasploit-E34C26?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Binary%20Ninja-000000?style=for-the-badge&logo=binaryninja&logoColor=white" alt="Binary Ninja" />
+  <img src="https://img.shields.io/badge/Radare2-A93132?style=for-the-badge&logo=radare&logoColor=white" alt="Radare2" />
+</div>
